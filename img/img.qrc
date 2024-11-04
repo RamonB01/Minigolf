@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imga">
+    <file>images.jpg</file>
+    <file>img.qrc</file>
+  </qresource>
+</RCC>
